@@ -1,0 +1,2 @@
+;; Generated package description from shift-number.el  -*- mode: lisp-data; no-byte-compile: t; lexical-binding:t -*-
+(define-package "shift-number" "0.2.0.20260504.211225" "Increase/decrease the number at point" '((emacs "28.1")) :commit "4dfa414a498fa279a17595fb83b3d6aba4f3e1d0" :authors '(("Alex Kost" . "alezost@gmail.com")) :maintainer '("Alex Kost" . "alezost@gmail.com") :keywords '("convenience") :url "https://codeberg.org/ideasman42/emacs-shift-number")
